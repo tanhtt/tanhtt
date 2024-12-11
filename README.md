@@ -15,8 +15,8 @@ Nice
 <!-- Add more technology badges as needed -->
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://github.com/tanhtt))
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact](https://github.com/tanhtt))
 
 ## 🏆 Achievements
 - [Major Achievement 1]
