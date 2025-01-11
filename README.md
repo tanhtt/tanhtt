@@ -3,8 +3,8 @@
 # 👋 Hi there! I'm Eddie
 
 ## 🚀 About Me
-Nice
+I'm a Game Developer
 
-- 🔭 Currently working on Unity Developer
-- 🌱 Learning Unity, Love2D
-- 📫 How to reach me: flywtan@gmail.com
+Goals
+- Release my first game in 2025.
+- Develop a large-scale project using advanced C++.
